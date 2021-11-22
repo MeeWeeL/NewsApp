@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MotionScene xmlns:motion="http://schemas.android.com/apk/res-auto">
+
+    <Transition
+        motion:constraintSetEnd="@layout/news_tape_details_fragment_layout_zoom"
+        motion:constraintSetStart="@layout/news_tape_details_fragment_layout"
+        motion:duration="1000"
+        motion:motionInterpolator="easeInOut">
+
+        <OnClick motion:targetId="@id/details_fragment_image" />
+    </Transition>
+</MotionScene>

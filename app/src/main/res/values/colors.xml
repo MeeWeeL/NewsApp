@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="lazy_red">#B96969</color>
+    <color name="lazy_green">#69B969</color>
+    <color name="lazy_gray">#B9B9B9</color>
+    <color name="lazy_dark_red">#894949</color>
+    <color name="light_lazy_gray">#F9F9F9</color>
 </resources>
